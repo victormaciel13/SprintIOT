@@ -1,6 +1,6 @@
-#Sprint IOT
 
-#Integrantes
+
+# Integrantes
 - Victor Camargo Maciel RM98384
 - Geovanna Silva Cunha RM97736
 - João Arthur Monteiro Pajaro RM551272
